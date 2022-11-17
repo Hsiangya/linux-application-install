@@ -1,4 +1,4 @@
-# Ubuntu22.04安装MySQL
+# Ubuntu安装MySQL
 
 ## 安装
 
